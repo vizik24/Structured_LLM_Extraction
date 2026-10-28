@@ -1,0 +1,164 @@
+Overall score: 80.34% (94/117 checks passed)
+
+Per-field summary across all test cases:
+  - company: 90.91% pass rate
+  - desirable_skills: 55.99% F1 score
+  - location: 81.82% pass rate
+  - posted_at: 85.71% pass rate
+  - remote_policy: 90.91% pass rate
+  - required_skills: 77.43% F1 score
+  - salary_currency: 100.00% pass rate
+  - salary_max: 100.00% pass rate
+  - salary_min: 100.00% pass rate
+  - salary_period: 90.91% pass rate
+  - title: 100.00% pass rate
+
+job_001: 90.00% (9/10 checks passed)
+  Run 1: 99.09%
+    - title (PASS): expected=Full Stack Developer | actual=Full Stack Developer
+    - company (PASS): expected=None | actual=None
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=None | actual=None
+    - salary_currency (PASS): expected=None | actual=None
+    - salary_period (PASS): expected=None | actual=None
+    - location (PASS): expected=London | actual=London
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.91): expected=['React', 'TypeScript', 'Python', 'FastAPI', 'REST API development', 'Azure Functions', 'API Management', 'Azure SQL', 'Cosmos DB', 'CI/CD', 'testing'] | actual=['React', 'TypeScript', 'Python', 'FastAPI', 'REST API development', 'Azure Functions', 'Azure API Management', 'Azure SQL', 'Cosmos DB', 'CI/CD', 'Testing']
+    - desirable_skills (PASS / F1=1.00): expected=['LangChain', 'LangGraph'] | actual=['LangChain', 'LangGraph']
+
+job_002: 80.00% (8/10 checks passed)
+  Run 1: 88.75%
+    - title (PASS): expected=Senior Full Stack Software Engineer | actual=Senior Full Stack Software Engineer
+    - company (PASS): expected=None | actual=None
+    - salary_min (PASS): expected=60000 | actual=60000.0
+    - salary_max (PASS): expected=85000 | actual=85000.0
+    - salary_currency (PASS): expected=GBP | actual=GBP
+    - salary_period (PASS): expected=year | actual=year
+    - location (PASS): expected=Glasgow | actual=Glasgow
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.88): expected=['Python', 'FastAPI', 'Django', 'Flask', 'React', 'TypeScript', 'PostgreSQL', 'AWS', 'Docker', 'CI/CD', 'Kubernetes', 'APIs', 'distributed systems', 'agile', 'Cursor', 'Claude Code'] | actual=['Python', 'FastAPI', 'Django', 'Flask', 'React', 'TypeScript', 'AWS', 'Docker', 'CI/CD', 'Kubernetes', 'EKS', 'APIs', 'Agile', 'AI-powered coding tools', 'Cursor', 'Claude Code']
+    - desirable_skills (FAIL / F1=0.00): expected=['EKS'] | actual=['PostgreSQL']
+
+job_003: 80.00% (8/10 checks passed)
+  Run 1: 88.33%
+    - title (PASS): expected=Back End Engineer (Python + FastAPI) | actual=Back End Engineer (Python + FastAPI)
+    - company (PASS): expected=None | actual=None
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=80000 | actual=80000.0
+    - salary_currency (PASS): expected=GBP | actual=GBP
+    - salary_period (FAIL): expected=year | actual=None
+    - location (PASS): expected=London | actual=London
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.83): expected=['Python', 'FastAPI', 'Django', 'AWS', 'scalable system design'] | actual=['Python', 'FastAPI', 'Django', 'SaaS', 'B2B', 'AWS', 'scalable system design']
+    - desirable_skills (PASS / F1=1.00): expected=[] | actual=[]
+
+job_004: 100.00% (10/10 checks passed)
+  Run 1: 100.00%
+    - title (PASS): expected=Full-Stack Engineer | actual=Full-Stack Engineer
+    - company (PASS): expected=None | actual=None
+    - salary_min (PASS): expected=90000 | actual=90000.0
+    - salary_max (PASS): expected=140000 | actual=140000.0
+    - salary_currency (PASS): expected=GBP | actual=GBP
+    - salary_period (PASS): expected=year | actual=year
+    - location (PASS): expected=London | actual=London
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (PASS / F1=1.00): expected=['Python', 'FastAPI', 'React', 'TypeScript'] | actual=['Python', 'FastAPI', 'React', 'TypeScript']
+    - desirable_skills (PASS / F1=1.00): expected=[] | actual=[]
+
+job_005: 81.82% (9/11 checks passed)
+  Run 1: 95.13%
+    - title (PASS): expected=Software Engineer | actual=Software Engineer
+    - company (PASS): expected=Oxford Economics | actual=Oxford Economics
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=None | actual=None
+    - salary_currency (PASS): expected=None | actual=None
+    - salary_period (PASS): expected=None | actual=None
+    - location (PASS): expected=UK | actual=UK
+    - remote_policy (PASS): expected=remote | actual=remote
+    - required_skills (FAIL / F1=0.75): expected=['C#', 'TypeScript', 'Azure', 'CI/CD', 'testing', 'version control', 'code review', 'LLMs', 'prompting', 'tool calling', 'embeddings', 'RAG', 'OpenAI', 'vector databases', 'semantic and hybrid search'] | actual=['C#', 'TypeScript', 'Azure', 'CI/CD', 'LLMs', 'prompting', 'tool calling', 'embeddings', 'RAG']
+    - desirable_skills (FAIL / F1=0.71): expected=['Claude Code', 'GitHub Copilot', 'Codex', 'MCP', 'Microsoft Agent Framework', 'LangChain', 'Snowflake', 'ClickHouse', 'Databricks', 'BigQuery', 'machine learning', 'NLP', 'data science'] | actual=['agentic coding tools', 'MCP', 'agent frameworks', 'Microsoft Agent Framework', 'LangChain', 'Snowflake', 'ClickHouse', 'Databricks', 'BigQuery', 'machine learning', 'NLP', 'data science', 'vector databases', 'semantic search', 'hybrid search']
+    - posted_at (PASS): expected=None | actual=None
+
+job_006: 63.64% (7/11 checks passed)
+  Run 1: 75.83%
+    - title (PASS): expected=Senior Engineer | actual=Senior Engineer
+    - company (PASS): expected=Volter | actual=Volter
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=None | actual=None
+    - salary_currency (PASS): expected=None | actual=None
+    - salary_period (PASS): expected=None | actual=None
+    - location (FAIL): expected=Old Street | actual=Old Street, London
+    - remote_policy (FAIL): expected=hybrid | actual=onsite
+    - required_skills (FAIL / F1=0.90): expected=['Go', 'Python', 'TypeScript', 'React', 'AWS', 'Terraform', 'ETL pipelines', 'OLTP', 'OLAP', 'schema design', 'data modelling', 'query optimisation', 'data quality', 'AI-driven engineering'] | actual=['Go', 'Python', 'TypeScript', 'React', 'AWS', 'Terraform', 'ETL', 'Time-series data', 'OLTP', 'OLAP', 'Schema design', 'Data modelling', 'Query optimisation', 'Data quality', 'AI-driven engineering']
+    - desirable_skills (FAIL / F1=0.44): expected=['time-series data', 'Event-driven architectures', 'security-aware development'] | actual=['Energy market experience', 'Utilities experience', 'Fintech experience', 'Forecasting', 'Event-driven architectures', 'Security-aware development']
+    - posted_at (PASS): expected=None | actual=None
+
+job_007: 63.64% (7/11 checks passed)
+  Run 1: 76.52%
+    - title (PASS): expected=Senior Backend Engineer | actual=Senior Backend Engineer
+    - company (PASS): expected=Lumen Health | actual=Lumen Health
+    - salary_min (PASS): expected=150000 | actual=150000.0
+    - salary_max (PASS): expected=185000 | actual=185000.0
+    - salary_currency (PASS): expected=USD | actual=USD
+    - salary_period (PASS): expected=year | actual=year
+    - location (FAIL): expected=United States | actual=None
+    - remote_policy (PASS): expected=remote | actual=remote
+    - required_skills (FAIL / F1=0.75): expected=['Go', 'Python', 'PostgreSQL', 'HIPAA-compliant'] | actual=['Go', 'Python', 'PostgreSQL', 'HIPAA-compliant systems']
+    - desirable_skills (FAIL / F1=0.67): expected=['Kafka'] | actual=['Kafka', 'Prior experience at a healthtech startup']
+    - posted_at (FAIL): expected=2026-10-14 | actual=None
+
+job_008: 90.91% (10/11 checks passed)
+  Run 1: 96.97%
+    - title (PASS): expected=Machine Learning Engineer | actual=Machine Learning Engineer
+    - company (PASS): expected=Kestrel Robotics GmbH | actual=Kestrel Robotics GmbH
+    - salary_min (PASS): expected=4500 | actual=4500.0
+    - salary_max (PASS): expected=5500 | actual=5500.0
+    - salary_currency (PASS): expected=EUR | actual=EUR
+    - salary_period (PASS): expected=month | actual=month
+    - location (PASS): expected=Berlin | actual=Berlin
+    - remote_policy (PASS): expected=remote | actual=remote
+    - required_skills (FAIL / F1=0.67): expected=['Python', 'PyTorch', 'computer vision'] | actual=['Python', 'PyTorch', 'Computer vision model training']
+    - desirable_skills (PASS / F1=1.00): expected=['C++', 'ROS'] | actual=['C++', 'ROS']
+    - posted_at (PASS): expected=None | actual=None
+
+job_009: 81.82% (9/11 checks passed)
+  Run 1: 86.36%
+    - title (PASS): expected=Sales Engineer | actual=Sales Engineer
+    - company (PASS): expected=Vertex Cloud | actual=Vertex Cloud
+    - salary_min (PASS): expected=60000 | actual=60000.0
+    - salary_max (PASS): expected=90000 | actual=90000.0
+    - salary_currency (PASS): expected=GBP | actual=GBP
+    - salary_period (PASS): expected=year | actual=year
+    - location (PASS): expected=London | actual=London
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.50): expected=['Technical pre-sales', 'AWS', 'Azure'] | actual=['Technical pre-sales experience', 'Cloud infrastructure', 'AWS', 'Azure', 'Presentation skills']
+    - desirable_skills (FAIL / F1=0.00): expected=['CKA'] | actual=['Kubernetes certification (CKA)']
+    - posted_at (PASS): expected=None | actual=None
+
+job_010: 72.73% (8/11 checks passed)
+  Run 1: 77.92%
+    - title (PASS): expected=Product Engineer | actual=Product Engineer
+    - company (FAIL): expected=None | actual=Referment
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=None | actual=None
+    - salary_currency (PASS): expected=None | actual=None
+    - salary_period (PASS): expected=None | actual=None
+    - location (PASS): expected=London | actual=London
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.57): expected=['Go', 'AWS', 'containers', 'CI/CD', 'Fargate', 'Lambda', 'Aurora Postgres', 'DynamoDB', 'GitHub Actions', 'AI development tools'] | actual=['Go', 'AWS', 'containers', 'CI/CD']
+    - desirable_skills (FAIL / F1=0.00): expected=[] | actual=['Fargate', 'Lambda', 'Aurora Postgres', 'DynamoDB', 'GitHub Actions']
+    - posted_at (PASS): expected=None | actual=None
+
+job_011: 81.82% (9/11 checks passed)
+  Run 1: 91.80%
+    - title (PASS): expected=Software Development Engineer | actual=Software Development Engineer
+    - company (PASS): expected=None | actual=None
+    - salary_min (PASS): expected=None | actual=None
+    - salary_max (PASS): expected=430 | actual=430.0
+    - salary_currency (PASS): expected=GBP | actual=GBP
+    - salary_period (PASS): expected=day | actual=day
+    - location (PASS): expected=Hounslow | actual=Hounslow
+    - remote_policy (PASS): expected=hybrid | actual=hybrid
+    - required_skills (FAIL / F1=0.76): expected=['Java', 'microservices', 'solution design', 'systems modelling', 'TypeScript', 'Angular', 'HTML', 'CSS', 'REST APIs', 'messaging', 'distributed systems', 'automated testing', 'source control', 'CI/CD', 'containers', 'AI-assisted engineering tools', 'Agile'] | actual=['Java', 'Microservices', 'Angular', 'TypeScript', 'HTML', 'CSS', 'REST APIs', 'Kafka', 'MQ', 'Distributed systems', 'Automated testing', 'Source control', 'CI/CD', 'Containers', 'Kubernetes', 'Azure', 'AI-assisted engineering tools']
+    - desirable_skills (FAIL / F1=0.33): expected=['Kafka', 'MQ', 'Kubernetes', 'Azure', 'event-driven', 'service-oriented architectures', 'observability', 'monitoring', 'SRE', 'SQL', 'AI-DLC practices', 'AI-powered', 'agentic software'] | actual=['Airline operations', 'Airport operations', 'Flight operations', 'Weight and balance', 'Load control', 'Mission-critical systems', 'Safety-critical systems', 'Regulated systems', 'Event-driven architecture', 'Service-oriented architecture', 'Observability', 'Monitoring', 'SRE', 'SQL', 'AI-DLC', 'AI-powered software', 'Agentic software']
+    - posted_at (PASS): expected=None | actual=None

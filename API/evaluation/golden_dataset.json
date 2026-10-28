@@ -1,0 +1,312 @@
+[
+  {
+    "id": "job_001",
+    "input": "Full Stack Developer (Junior-Mid Level)\n\nFull Stack Developer | React & Python | London Hybrid | 6-Month Contract | Inside IR35\n\nWe're hiring Full Stack Developers to join an exciting financial services programme building cloud-native and AI-powered applications.\n\nYou'll work across both front-end and back-end development, contributing to new features, integrations and scalable digital solutions.\n\nKey Skills:\n\n* React and TypeScript\n* Python and FastAPI\n* REST API development\n* Azure Functions and API Management\n* Azure SQL or Cosmos DB\n* CI/CD and testing best practices\n\n\nExperience with AI frameworks such as LangChain or LangGraph would be a strong advantage.",
+    "expected": {
+      "title": "Full Stack Developer",
+      "company": null,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "location": "London",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "React",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "REST API development",
+        "Azure Functions",
+        "API Management",
+        "Azure SQL",
+        "Cosmos DB",
+        "CI/CD",
+        "testing"
+      ],
+      "desirable_skills": ["LangChain", "LangGraph"]
+    }
+  },
+  {
+    "id": "job_002",
+    "input": "Senior Full Stack Software Engineer\nLocation: Glasgow\nSalary: Competitive + benefits\nWorking pattern: Hybrid\nSalary: £60,000 - £85,000 DOE\n\nThe Role\nWe’re looking for a Full Stack Software Engineer to join a growing engineering team building sophisticated software across AI.\nYou’ll be involved across the stack, developing applications and services that sit at the heart of a complex technology platform. This is an opportunity to work on challenging engineering problems, influence how products are built and take ownership of features from idea through to production.\n\nYou’ll work closely with engineers across software, infrastructure, AI and hardware, so being comfortable working across disciplines and communicating with different technical teams is important.\n\nWhat You’ll Be Doing\n\n* Build and deliver robust, scalable full-stack applications.\n* Turn product and technical requirements into well-designed software.\n* Take ownership of projects and features through design, implementation, testing and deployment.\n* Develop backend services and APIs using Python, alongside modern frontend applications.\n* Build intuitive interfaces using TypeScript and React.\n* Design and work with relational databases, particularly PostgreSQL.\n* Contribute to system architecture and technical design decisions.\n* Improve engineering standards around testing, code quality, documentation and delivery.\n* Work with cloud and infrastructure teams to ensure applications are reliable and production-ready.\n* Support and mentor less experienced engineers.\n* Help shape engineering processes, development practices and technical direction.\n\n\nWhat We’re Looking For\n\n* 3+ years' commercial software engineering experience, ideally with strong full-stack exposure.\n* Excellent Python development skills and experience with modern web frameworks such as (FastAPI, Django or Flask)\n* Strong frontend experience with React and TypeScript.\n* Experience developing and operating applications in AWS or another major cloud environment.\n* Good understanding of Docker, CI/CD and modern deployment practices.\n* Experience working with Kubernetes, ideally EKS.\n* Familiarity with application architecture, APIs and distributed systems.\n* Comfortable working in an agile, collaborative engineering environment.\n* Experience using modern AI-powered coding tools such as Cursor, Claude Code or similar.\n* Strong communication skills, curiosity and a willingness to work across technical disciplines.\n\n\nIf you’re an engineer who enjoys ownership, solving complex problems and building technology from the ground up, we’d love to hear from you.",
+    "expected": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": null,
+      "salary_min": 60000,
+      "salary_max": 85000,
+      "salary_currency": "GBP",
+      "salary_period": "year",
+      "location": "Glasgow",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Kubernetes",
+        "APIs",
+        "distributed systems",
+        "agile",
+        "Cursor",
+        "Claude Code"
+      ],
+      "desirable_skills": ["EKS"]
+    }
+  },
+  {
+    "id": "job_003",
+    "input": "About the job\nBack End Engineer (Python + FastAPI)\nHybrid, London (3 Days Per Week)\nUp to £80,000 + Benefits\n\nWe're working with an AI software company building a next-generation platform for the investment and financial services sector.\n\nThis is a unique opportunity to join a founding-style engineering team, helping shape both the product and technical direction from an early stage. Whilst the environment feels like a startup, the business benefits from the backing, investment and stability of an established parent company.\n\nThe Role You'll be responsible for building the systems that power the platform, from APIs and integrations through to cloud infrastructure and AI services. Working closely with Product, Data and Engineering teams, you'll help design and scale a platform that supports complex workflows and AI-powered functionality.\n\nKey Responsibilities\n\n* Design, build and maintain backend services using Python\n* Develop scalable APIs and integrations\n* Work with cloud infrastructure and deployment pipelines\n* Support the development of AI and LLM-powered functionality\n* Help define backend architecture and engineering best practices\n* Write clean, secure and maintainable code\n\n\nIdeal Background\n\n* Strong commercial Python experience\n* Experience with FastAPI, Django or similar frameworks\n* Experience building SaaS or B2B products\n* Exposure to AWS or other cloud environments\n* Understanding of scalable system design and modern development practices\n\n\nPackage\n\n* Up to £80,000 + Benefits\n* Hybrid working (3 days per week in King's Cross)\n* Opportunity to join a growing AI business at a key stage of its journey",
+    "expected": {
+      "title": "Back End Engineer (Python + FastAPI)",
+      "company": null,
+      "salary_min": null,
+      "salary_max": 80000,
+      "salary_currency": "GBP",
+      "salary_period": "year",
+      "location": "London",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "AWS",
+        "scalable system design"
+      ],
+      "desirable_skills": []
+    }
+  },
+  {
+    "id": "job_004",
+    "input": "Somewhere in London right now, someone in finance is reading a 400-page PDF so they can copy three numbers into a spreadsheet.\n\nI'm working with a team building the AI that does that for them, and they're hiring four full-stack engineers.\n\nThey're a recently funded (Series A) startup in London. Around ten engineers today, heading to eighteen, and these four seats sit on the team that owns everything the user actually sees and touches.\n\nWhat you'd be doing:\n- Building product features end to end, from the Python API to the React front end\n- Turning AI that reads thousands of documents into something a finance team trusts on deadline\n- Shipping quickly in a small team, where you own what you build\n\nWhat they're looking for:\n- Good product instinct and a real feel for the front end\n- Python on the backend (FastAPI), React and TypeScript on the front\n- If most of your backend work has been in another language, that's fine, as long as you're comfortable happy to be interviewed in Python\n- Startup or scale-up experience helps, but if you don't tick every box, don't be put off\n\nThe details:\n- £90k to £140k plus equity\n- Office in London, 4 days a week\n- Process: a chat with the CTO, a Python coding session, then a couple of hours in the office meeting the team\n\nBuilding AI products that people actually rely on is in pretty high demand at the moment, so it's a good one to have on the CV.\n\nIf it sounds interesting, reply below or feel free to reach out to me directly james@ethiqrec.com",
+    "expected": {
+      "title": "Full-Stack Engineer",
+      "company": null,
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "salary_currency": "GBP",
+      "salary_period": "year",
+      "location": "London",
+      "remote_policy": "hybrid",
+      "required_skills": ["Python", "FastAPI", "React", "TypeScript"],
+      "desirable_skills": []
+    }
+  },
+  {
+    "id": "job_005",
+    "input": "About the job\nDepartment: IT\n\nLocation: Remote, UK\n\nDescription\n\nOxford Economics, a leading economic forecasting and consulting firm, is looking for an ambitious, passionate Software Engineer with a strong interest in AI to join our Technology team and help us build, ship and scale the next generation of AI-enabled capabilities at Oxford Economics.\n\nMission (Why this role exists)\n\nAI is changing how research-led businesses like ours work, and we're building the team and the capabilities to stay ahead of it. We're growing our dedicated AI engineering team whose job is to design, build, and ship the next generation of AI-enabled capabilities at Oxford Economics: agents, retrieval pipelines, conversational tools, internal platforms, and client-facing features that people use every day.\n\nThis is a hands-on role for an engineer early in their career who writes great software and is genuinely excited about where AI is going. You'll spend your time building alongside the rest of the AI team, turning promising ideas into working software and learning fast as the technology moves. Part of the team's remit is partnering closely with our Content, Data, and Models teams, and over time you'll grow into embedding with them directly to understand their work and find where AI can make a real difference.\n\nYou'll work with engineers, economists, product owners, and stakeholders across the business, and we'll back you to develop quickly into a trusted expert in building with AI.\n\nKey Responsibilities\n\nYou'll spend most of your time building within the AI team, with the balance of your work shifting as you grow. Day to day you will:\n\nBuild\n\nDesign, build, and ship production software that brings AI capabilities to OE: agents, RAG pipelines, conversational interfaces, internal tools, and other client-facing features.\nTake ideas from prototype to production, contributing across the software lifecycle: discovery, design, coding, testing, CI/CD, observability, cost monitoring, and safe rollout.\nHelp build and operate the services, agents, MCPs, shared libraries, Claude skills, and evaluation harnesses that make up OE's AI platform.\nApply solid engineering fundamentals: clean code, testing, modularity, performance, security. Because quality and reliability matter as much in AI systems as anywhere else.\n\nCollaborate & partner\n\nWork with product owners and the rest of the team to turn business needs into tangible, well-scoped deliverables, adapting as those needs evolve.\nPartner with our Content, Data and Models teams to understand what they need, growing into embedding alongside them directly as you build context and credibility.\nBuild with safety and responsible use in mind. Sensible data handling, prompt-injection defences, and alignment with ISO 27001 controls and OE's AI Acceptable Use Policy.\n\nLearn & share\n\nExperiment with new models, frameworks, and techniques, and help the team form an evidence-based view of what's hype and what's worth betting on.\nShare what you learn: patterns, write-ups, brown-bag sessions; helping colleagues across OE raise their own AI fluency as you grow into it.\n\nSkills, Knowledge & Expertise\n\nWe care more about trajectory than a tick-box list. For the AI-specific parts especially, real curiosity and hands-on tinkering count for as much as years of experience. If you've explored these things, have views on them and want to go deeper, that's what we're looking for.\n\nCore engineering\n\nAround 2+ years of professional experience shipping production software in a modern cloud environment.\nSolid engineering fundamentals: testing, version control, code review, modular design, and a developing sense of when to be pragmatic versus principled.\nProficiency in C# and experience with TypeScript, comfortable working from APIs through to lightweight user interfaces.\nSome hands-on experience with cloud services (e.g. Azure) and modern delivery practices such as CI/CD.\n\nBuilding with AI\n\nYou've built things with LLMs, even side projects or prototypes, and understand concepts like prompting, tool calling, embeddings, and RAG.\nYou've integrated a model API (e.g. OpenAI) and have at least a working feel for cost, latency, context windows, and rate limits.\nAn awareness of how building and evaluating LLM systems differs from traditional software, and an interest in getting good at it.\nFamiliarity with, or genuine curiosity about, vector databases, embeddings, and retrieval techniques such as semantic and hybrid search.\n\nHow you work\n\nGenuine curiosity and a tinkerer's instinct. You build with AI because you find it interesting, not just because it's the job.\nA bias for shipping: you'd rather get something working in front of people than polish it indefinitely.\nValuing good engineering practices: fast feedback, testing, and simple design; and wanting to get better at them. You might already follow the people who champion XP-style ways of working; if you don't have deep experience with them yet, the enthusiasm to learn matters more.\nYou pick things up fast across unfamiliar domains and can build enough understanding of someone else's problem to be useful.\nYou communicate clearly and can explain trade-offs to engineers and non-engineers alike.\n\nBonus points\n\nExperience using agentic coding tools (e.g. Claude Code, GitHub Copilot, Codex) to ship real software.\nHands-on time with MCP, agent frameworks (e.g. Microsoft Agent Framework, LangChain) or your own orchestration.\nExperience with content, publishing, or knowledge-management workflows (CMS integrations, editorial tooling, document processing).\nExposure to modern data platforms (e.g. Snowflake, ClickHouse, Databricks, BigQuery) or working with data engineering teams.\nA background or coursework in machine learning, NLP, or data science.\nOpen-source contributions, side projects, or writing that show you build for the love of it.\nAn interest in economics, forecasting, financial services, or research-led businesses.\nA degree in Computer Science, Mathematics, Statistics, or equivalent practical experience.\n\nWhat success looks like\n\nWe don't expect you to arrive doing all of this. Here's the trajectory we'd hope to see:\n\nIn your first 3 months\n\nYou're set up and contributing. Your first pieces of AI-enabled software have shipped and are in proper use, with support from the team.\nYou understand how OE's AI platform fits together and where your work sits within it.\n\nBy 6 months\n\nYou're shipping regularly and driving features forward. Taking the lead in pairing and mobbing sessions, increasingly steering ideas rather than waiting for direction.\nYou're a dependable contributor to the team's core work and are starting to support other teams with AI.\n\nBy 12 months\n\nYou're putting AI to work in product discovery, building rapid prototypes that test ideas quickly and spark new ones.\nWorking software you've built is landing regularly and being used across OE and by our clients, with a short, safe path from prototype to production.\nYou've embedded with a team to understand their work and find where AI genuinely helps them, and people come to you for an honest, well-informed answer to \"should we do this with AI?\"\n\nKey working relationships\n\nInternal: The AI team, Software Engineers, Product Owners, Economists / Consulting and Content teams, IT Operations, Business Development / Marketing.\n\nExternal: Frontier model providers (OpenAI, Anthropic), cloud providers (Azure), AI tooling and SaaS vendors.\n\nJob Benefits\n\nHere are some of the benefits we offer in the UK to ensure you feel valued, supported, and thrive at work:\n\n Private Healthcare\n Employee Assistance Program\n Enhanced Maternity and Paternity Leave\n Workplace Nursery Scheme\n Cycle to Work Scheme",
+    "expected": {
+      "title": "Software Engineer",
+      "company": "Oxford Economics",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "location": "UK",
+      "remote_policy": "remote",
+      "required_skills": [
+        "C#",
+        "TypeScript",
+        "Azure",
+        "CI/CD",
+        "testing",
+        "version control",
+        "code review",
+        "LLMs",
+        "prompting",
+        "tool calling",
+        "embeddings",
+        "RAG",
+        "OpenAI",
+        "vector databases",
+        "semantic and hybrid search"
+      ],
+      "desirable_skills": [
+        "Claude Code",
+        "GitHub Copilot",
+        "Codex",
+        "MCP",
+        "Microsoft Agent Framework",
+        "LangChain",
+        "Snowflake",
+        "ClickHouse",
+        "Databricks",
+        "BigQuery",
+        "machine learning",
+        "NLP",
+        "data science"
+      ],
+      "posted_at": null
+    }
+  },
+  {
+    "id": "job_006",
+    "input": "About the job\n⚡️About Volter\n\nAI and renewables are the 21st Centuries two largest megatrends and they're colliding in the world's largest industry: energy. AI has made intelligence abundant, so human brains are no longer the bottle neck, cheap and secure power is.\n\nThe people, businesses and countries that have access to cheap, clean and secure power will lead this century. Renewables can deliver it, but they’ve turned a previously static predictable commodity into a huge complex changing forecasting and optimisation problem that the industry’s decades-old systems were never built to solve.\n\nVolter exists to solve it. We’re building the first AI native operating system for business energy, so that every business can run on power that’s cheaper, cleaner and more secure. Octopus and Kraken did this for homes; we’re doing it for business.\n\nAnd it’s working. We launched our platform in early 2026 and have already 20x revenue with customers from all across the UK now using the Volter platform. We’re still a small team, so you’ll shape the product, the tech and the culture from the ground up.\n\n🔋 Where you plug in\n\nOur platform runs on data: half-hourly meter reads, market prices, forecasts, trades and tariffs all feed the products that price, match, and bill our customers' energy. We’re hiring a Senior Engineer with a data-oriented bent to own and scale our data foundations, while building the product on top of them. In your first year, success looks like data pipelines the business trusts, faster and more reliable pricing and billing, and a product that you've shipped end-to-end that customers and our ops team use every day.\n\n⚙️ What You'll Power\n\nBuild and own the pipelines that bring data into Volter: half-hourly meter feeds, market and price data, network tariffs, weather data, and other third-party sources.\nOwn our data foundations: schema design, data modelling (lots of time-series), query performance and data quality, so our customers and partners can rely on it.\nShip product features end to end, from data/backend services and APIs through to the customer-facing flows on top of them.\nShape what we build with commercial, ops and data science: understand the real problem, scope a v1, then measure it and decide what comes next.\nChallenge how we do things: bring your experience to architecture decisions, name the trade-offs and push back when there's a better way.\nPartner with our data scientists to improve forecasting and pricing models.\nRun what you build in production, with logging, monitoring, and alerting that keep it reliable.\nRaise the engineering bar through code reviews, testing, and helping other engineers grow.\n\n🔌 What You'll Bring\n\nSeveral years as a broad-based software engineer, with a track record of owning complex features and systems end-to-end in production.\nHands-on data engineering: you've built and run ETL pipelines and worked deeply with databases in data-intensive systems, ideally including time-series data.\nStrong data fundamentals: knowledge about database technology choices (OLTP, OLAP), schema design, data modelling, query optimisation and data quality.\nProduct instincts as well as pipelines: you enjoy shipping user-facing features and solving user problems as much as building data pipelines.\nProficiency across the stack: backend in Go and/or Python, frontend in TypeScript and React, plus cloud deployment (we use AWS), and infrastructure-as-code (we use Terraform).\nFluency in AI-driven engineering: you see its value and use it day-to-day, with established processes for high and consistent standards\nConfidence to challenge the status quo, make sound calls in ambiguity and advise the team as a peer.\n\nNice-to-haves\n\nExperience in energy, utilities or another data-heavy, regulated market such as fintech.\nBuilding at an early-stage startup, balancing speed with technical debt.\nPrevious experience working with data scientists on forecasting or modelling.\nEvent-driven architectures and security-aware development (least privilege, auditability, PII handling).\n\n🔆 Your kind of energy\n\nHow we bring the Volter values to life in this role:\n\nIntegrity, trust and transparency: When the data looks wrong, or a project is slipping, you say so early, with options and a recommendation. When you disagree, you push back with evidence, then commit.\nGrowth, ambition and excellence: You hold a high bar for quality, learn new domains fast by building, and leave our systems better than you found them.\nGetting sh*t done: You ship in days, not weeks. You pick the pragmatic option that gets useful things to customers, then measure whether it worked.\nElectric enthusiasm: You're always learning, whether that's a new corner of the energy market or a better way to build, and you bring the team with you. You share what you find, pair on hard problems and help everyone around you get better.\nFun and humble: You bring levity to the team, especially when things get intense. You can laugh at yourself, celebrate other people's wins and keep the mood up on a tough week, and you're happy for the best idea to win, whoever it comes from.\n\n🌱 How We Work\n\nWe're together in our Old Street office four days a week, because the best ideas and energy (!) still happen in the same room. You'll work directly with founders who've built and scaled businesses to multi-billion-dollar valuations.\n\n🎁 The perks\n\nCompetitive salary and generous equity\n25 days’ holiday plus public holidays\nRegular team days to connect and collaborate\n\n🧭 From application to offer\n\nIntro call with our talent team (30-45 min): getting to know you, and you getting to know us\nTech interview with our Tech Lead (30 mins)\nVirtual live coding challenge (45 mins)\nIn-person case study & interview with founders at our Old Street office\n\n🚀 Ready to switch on? Apply below!",
+    "expected": {
+      "title": "Senior Engineer",
+      "company": "Volter",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "location": "Old Street",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "Go",
+        "Python",
+        "TypeScript",
+        "React",
+        "AWS",
+        "Terraform",
+        "ETL pipelines",
+        "OLTP",
+        "OLAP",
+        "schema design",
+        "data modelling",
+        "query optimisation",
+        "data quality",
+        "AI-driven engineering"
+      ],
+      "desirable_skills": [
+        "time-series data",
+        "Event-driven architectures",
+        "security-aware development"
+      ],
+      "posted_at": null
+    }
+  },
+  {
+    "id": "job_007",
+    "input": "Senior Backend Engineer\nLumen Health | Posted 14 October 2026\n\nWe're a Series B digital health company. This role is remote, open to candidates based anywhere in the United States.\n\nCompensation: $150,000 - $185,000 per year plus equity.\n\nRequirements:\n- 5+ years of backend experience\n- Strong Go or Python\n- PostgreSQL\n- Experience with HIPAA-compliant systems\n\nBonus points:\n- Kafka\n- Prior experience at a healthtech startup",
+    "expected": {
+      "title": "Senior Backend Engineer",
+      "company": "Lumen Health",
+      "salary_min": 150000,
+      "salary_max": 185000,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "location": "United States",
+      "remote_policy": "remote",
+      "required_skills": ["Go", "Python", "PostgreSQL", "HIPAA-compliant"],
+      "desirable_skills": ["Kafka"],
+      "posted_at": "2026-10-14"
+    }
+  },
+  {
+    "id": "job_008",
+    "input": "Machine Learning Engineer\nKestrel Robotics GmbH\n\nWe're building perception software for warehouse robots. This role is fully remote within the EU; our office is in Berlin and you're welcome to visit, but there's no requirement to.\n\nSalary: €4,500 - €5,500 gross per month.\n\nYou bring:\n- Python\n- PyTorch\n- Experience training computer vision models\n\nA plus:\n- C++\n- ROS",
+    "expected": {
+      "title": "Machine Learning Engineer",
+      "company": "Kestrel Robotics GmbH",
+      "salary_min": 4500,
+      "salary_max": 5500,
+      "salary_currency": "EUR",
+      "salary_period": "month",
+      "location": "Berlin",
+      "remote_policy": "remote",
+      "required_skills": ["Python", "PyTorch", "computer vision"],
+      "desirable_skills": ["C++", "ROS"],
+      "posted_at": null
+    }
+  },
+  {
+    "id": "job_009",
+    "input": "Sales Engineer\nVertex Cloud (via Talent Bridge Recruitment)\nLondon, hybrid - 3 days in office\n\nBase salary £60,000 plus up to £30,000 commission (OTE £90,000).\n\nYou will run technical demos and support enterprise sales cycles.\n\nRequired:\n- Technical pre-sales experience\n- Knowledge of cloud infrastructure (AWS or Azure)\n- Excellent presentation skills\n\nDesirable:\n- Kubernetes certification (CKA)",
+    "expected": {
+      "title": "Sales Engineer",
+      "company": "Vertex Cloud",
+      "salary_min": 60000,
+      "salary_max": 90000,
+      "salary_currency": "GBP",
+      "salary_period": "year",
+      "location": "London",
+      "remote_policy": "hybrid",
+      "required_skills": ["Technical pre-sales", "AWS", "Azure"],
+      "desirable_skills": ["CKA"],
+      "posted_at": null
+    }
+  },
+  {
+    "id": "job_010",
+    "input": "About the job\nReferment is working with a UK fintech scale-up that supplies lenders with real-time credit information and analytics through API-first products, so lending decisions draw on data that reflects consumers as they are today rather than weeks-old credit files. They're hiring a Product Engineer early in their career to build the Go services their lender partners depend on every day, within a small, collaborative and highly productive engineering team.\n\nThis is a Go role first and foremost: you'll spend most of your time writing, testing and operating the Go microservices behind B2B APIs on AWS, and grow into the wider stack from there. You'll be paired with and mentored by senior engineers, but you'll own real features end to end from day one. They hire for trajectory as much as experience, so the scope of the role will grow with what you bring and what you learn.\n\nThey want a product mindset, not just an implementation one — engineers who ask who the change is for, what problem it solves, and whether the design holds up in production before writing the code. The team sets a high bar for code quality, design taste and delivery, and makes deliberate, responsible use of modern AI tooling — an assistant to engineering judgement, never a replacement for it.\n\nThe Role\n\n* Build, test and ship features in Go API services, with support and code review from senior engineers.\n* Take real ownership of what you deliver, from design discussion through to production behaviour and the customer outcome.\n* Work with AWS infrastructure, containers and CI/CD pipelines, and learn to operate what you build.\n* Contribute to code review, design discussions and technical decisions — have a view, and change it when the evidence says so.\n* Use AI tooling deliberately to raise the quality and pace of your work, staying accountable for every line you ship.\n\nWhat We're Looking For\n\n* Some commercial software engineering experience, or equivalent evidence that you can build and ship real software — roughly one to three years is the range in mind, with capability valued over time served.\n* Go at the heart of your skill set: either you've used it commercially, or you've built substantial projects in it and can talk fluently about how and why.\n* Product instinct — thinking about the user of the API or interface, not just the ticket, and pushing back when something doesn't make sense.\n* Fluent, deliberate use of AI development tools in your workflow, moving faster while staying fully accountable for the code you ship.\n* Familiarity with AWS, containers and CI/CD — Fargate, Lambda, Aurora Postgres, DynamoDB and GitHub Actions. You don't need all of it on day one, but you should be keen to learn it properly.\n\nAn interest in fintech, credit or other regulated industries is welcome; direct experience is a plus, not a requirement.\n\nThe role is hybrid, based in London with two to three days a week in the office and the rest working from home.\n\nThis could suit... an engineer a year or two into their career with solid Go experience, a backend developer looking to move into product-focused fintech work, or a strong self-taught builder with substantial Go projects who can demonstrate they ship.\n\n#Referment",
+    "expected": {
+      "title": "Product Engineer",
+      "company": null,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "location": "London",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "Go",
+        "AWS",
+        "containers",
+        "CI/CD",
+        "Fargate",
+        "Lambda",
+        "Aurora Postgres",
+        "DynamoDB",
+        "GitHub Actions",
+        "AI development tools"
+      ],
+      "desirable_skills": [],
+      "posted_at": null
+    }
+  },
+  {
+    "id": "job_011",
+    "input": "About the job\nSoftware Development Engineer\n Hounslow (Hybrid - 50% of the time on site)\n 12 Month Contract\n Up to £430 p/d Umbrella Rate - Inside IR35\n \n Would you like your code to sit inside the software that gets aircraft away on time? This Software Development Engineer contract is with a team building mission-critical airline operations software, from load optimisation and weight and balance to regulatory-compliant load sheets.\n \n You'll build Java microservices with an Angular and TypeScript front end, working with Product Managers, Technical Business Analysts, Architects and Quality Engineers in Agile teams. Kafka, MQ and REST connect a set of products running on Azure and Kubernetes, and AI-assisted engineering tools are used from day one. 12 months, hybrid, with half your time on site in Hounslow.\n\nWhat You'll Be Doing\n\n* Designing and delivering scalable, secure, maintainable Java microservices and Angular front-end features aligned with product and architectural goals\n* Building APIs, integrations and messaging between interconnected products using REST, Kafka and MQ\n* Writing automated tests and validation to support quality, reliability and continuous delivery\n* Owning CI/CD for your team's services, deploying containers to Kubernetes on Azure\n* Taking part in peer reviews, technical design discussions and architecture reviews\n* Using AI-assisted engineering tools, and checking their code, tests and designs against security, performance and operational standards\n* Investigating defects, finding root causes and supporting deployment, monitoring and troubleshooting\n\n\nWhat You'll Bring\n\n* A degree in Computer Science, Engineering, Information Systems or a related field, plus 3+ years in software development within Agile product teams\n* Strong Java experience building microservices, with solid solution design and systems modelling skills\n* Front-end experience with TypeScript and Angular, including HTML and CSS\n* A good understanding of REST APIs and messaging, ideally Kafka or MQ, plus distributed systems and architecture principles\n* Experience with automated testing, source control, CI/CD and containers, ideally Kubernetes and Azure\n* Confident use of AI-assisted engineering tools, and the judgement to challenge what they produce\n\n\nDesirable: airline or airport operations (flight operations, weight and balance, load control, baggage or ramp), mission-critical, safety-critical or regulated systems, event-driven or service-oriented architectures, observability, monitoring or SRE, SQL, AI-DLC practices, AI-powered or agentic software\n \n Apply today with your CV for this Software Development Engineer contract and we'll be in touch.\n \n This role may suit candidates who have held roles including: Java Developer, Java Engineer, Full Stack Developer, Full Stack Engineer, Software Engineer, Backend Developer, Integration Engineer, Angular Developer\nDeerfoot Recruitment Solutions Ltd is a leading independent tech recruitment consultancy in the UK. For every CV sent to clients, we donate £1 to The Born Free Foundation. We are a Climate Action Workforce in partnership with Ecologi. If this role isn't right for you, explore our referral reward program with payouts at interview and placement milestones. Visit our website for details. Deerfoot Recruitment Solutions Ltd acts as an Employment Business in relation to this vacancy.\nLNKD1_UKTJ",
+    "expected": {
+      "title": "Software Development Engineer",
+      "company": null,
+      "salary_min": null,
+      "salary_max": 430,
+      "salary_currency": "GBP",
+      "salary_period": "day",
+      "location": "Hounslow",
+      "remote_policy": "hybrid",
+      "required_skills": [
+        "Java",
+        "microservices",
+        "solution design",
+        "systems modelling",
+        "TypeScript",
+        "Angular",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "messaging",
+        "distributed systems",
+        "automated testing",
+        "source control",
+        "CI/CD",
+        "containers",
+        "AI-assisted engineering tools",
+        "Agile"
+      ],
+      "desirable_skills": [
+        "Kafka",
+        "MQ",
+        "Kubernetes",
+        "Azure",
+        "event-driven",
+        "service-oriented architectures",
+        "observability",
+        "monitoring",
+        "SRE",
+        "SQL",
+        "AI-DLC practices",
+        "AI-powered",
+        "agentic software"
+      ],
+      "posted_at": null
+    }
+  }
+]

@@ -1,0 +1,42 @@
+# Local environment and secrets
+.env
+.env.*
+.venv/
+venv/
+*.local
+
+# Project notes / scratch files
+.notes/
+.notes
+notes.md
+.steps
+steps.md
+scratch/
+*.tmp
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Frontend 
+UI
+
+# Dockerfile is not ignored; it is part of the project’s deployment config.
+
+# Logs
+*.log
